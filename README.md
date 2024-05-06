@@ -1,4 +1,4 @@
-# Document-Intelligence-ChatBot-Using-Llama2-Model
+# Gen AI Document-Intelligence-ChatBot-Using-Llama2-Model
 With the help of ChatBot, we can get any information on the Document.
 <br>
 I have used the Llama2 llm model, Langchain Framework, Huggingface Hub, Pinecone Vector Database, Prompt Engineering, and Flask API.
